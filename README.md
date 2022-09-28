@@ -14,8 +14,6 @@ Non functional requirements
 -----------
 -   Multiple simultaneously connected clients should work (one same host i.e. with 1 server process)
 -   Only The Python Standard Library is allowed, no external dependencies
--   Python3
--   If you want to be sure, your code will at least be executed with CPython 3.8 or later for linux/x86-64
 
 
 
